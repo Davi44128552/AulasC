@@ -6,7 +6,7 @@
 
 int main(int narg, char *argv[]){
 
-	int cont = 0;
+	int cont = 1;
 	int k = 2;
 	int num, cont_x;
 
